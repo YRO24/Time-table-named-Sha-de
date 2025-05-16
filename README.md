@@ -44,9 +44,7 @@ The app uses UserDefaults for data persistence:
 - ✓ Completion status is tracked separately
 
 ## 📲 Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/Sha-de.git
+Simply Clone the repository !
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
